@@ -28,9 +28,6 @@
  * echo Yii::app()->rds->get($key); //default from master
  *
  * Created by PhpStorm.
- * User: mengfanbin
- * Date: 15-3-23
- * Time: 下午3:33
  */
 
 class RedisClient extends CApplicationComponent {
